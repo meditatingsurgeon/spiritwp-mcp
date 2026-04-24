@@ -1,0 +1,13 @@
+/vendor/
+/node_modules/
+/.wp-env/
+/composer.lock
+/.phpunit.cache/
+/.phpunit.result.cache
+/coverage/
+/build/
+/dist/
+.DS_Store
+.idea/
+.vscode/
+*.log
