@@ -1,4 +1,4 @@
-# SpiritMCP Bridge
+# SpiritWP MCP Plugin
 
 A dual-mode WordPress plugin that bridges The Spiritual Agency's MCP server with self-hosted WordPress sites.
 
